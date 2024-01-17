@@ -17,3 +17,4 @@
 * How to correctly structure an HTML page
 
 ## Tasks
+Check content of each file and test run
