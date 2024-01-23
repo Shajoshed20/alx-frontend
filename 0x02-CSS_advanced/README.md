@@ -17,4 +17,4 @@
 
 ## Tasks :woman_technologist:
 
-All tasks can be found each indexed file of the directory, for your perusal. 
+All tasks can be found each indexed file of the directory, for your perusal. Open each for preview.
